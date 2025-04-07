@@ -9,4 +9,4 @@ function processConfirm(question) {
     return result;
   }
   
-  processConfirm('Bạn có chắc chắn với quyết định của mình không');
+  processConfirm('Đây là quyết định của bạn ?');
